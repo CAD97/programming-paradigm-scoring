@@ -22,7 +22,7 @@ for educational purposes, self gratification, or because of an actual use case.
  
 Paradigms listed come from resources listed in the Credits and my own experience.
 This compilation aims to place a "score" on paradigm support to facilitate the comparison
-of DLS utility, and potentially for use in [competition](https://codereview.meta.stackexchange.com/a/7311/100439).
+of DSL utility, and potentially for use in [competition](https://codereview.meta.stackexchange.com/a/7311/100439).
  
 You can claim points from multiple categories.
 They are not supposed to be mutually exclusive (example: most Structured Programming is also Imperative).
