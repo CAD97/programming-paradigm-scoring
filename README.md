@@ -55,7 +55,7 @@ Note that source order does not have to be top-to-bottom, it could be 2D!
 - Allow the execution of multiple instructions in source order. (1 point)
 - Allow the use of a `goto` statement to jump forward/back in execution order. (1 point)
 - Allow the use of a command to change source execution direction. (1 point)
-- Allow the conditional application of the two above
+- Allow the conditional application of the two above. (You can claim this with only one of the two.) (1 point)
  
 ## Structured (5 points)
  
